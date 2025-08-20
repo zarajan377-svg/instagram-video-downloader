@@ -10,7 +10,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <Hero />
 
-            {/* Whatsapp No: Section */}
+     {/* Whatsapp No: Section */}
       <+923296521799/>
               
       {/* Features Section */}
