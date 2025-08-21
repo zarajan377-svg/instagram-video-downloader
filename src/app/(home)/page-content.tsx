@@ -9,10 +9,7 @@ export default function HomePage() {
     <div>
       {/* Hero Section */}
       <Hero />
-
-     {/* Whatsapp No: Section */}
-      <+923296521799/>
-              
+      
       {/* Features Section */}
       <Features />
 
