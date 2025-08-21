@@ -9,7 +9,7 @@ export default function HomePage() {
     <div>
       {/* Hero Section */}
       <Hero />
-      
+
       {/* Features Section */}
       <Features />
 
